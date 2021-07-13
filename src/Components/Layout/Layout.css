@@ -1,0 +1,32 @@
+.bg-img {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  height: 55%;
+}
+
+.h-text {
+  margin-top: 50px;
+}
+
+.Link{
+  color: black;
+}
+
+.Link:hover{
+  color: rgba(255, 133, 133, 0.78);
+}
+
+
+
+@media only screen and (max-width: 1220px) {
+  .bg-img {
+    height: 45%;
+  }
+}
+
+@media only screen and (max-width: 1020px) {
+  .bg-img {
+    display: none;
+  }
+}

@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: themify;
+
+}
+
+.button{
+    color: white;
+    background-color: #ff817e;
+  }
+  
+  .button:hover{
+    color: black;
+}
+
+.btn-dark:hover{
+    color: white;
+    border: #ff817e 1px solid;
+    background-color: #ff817e;
+}
